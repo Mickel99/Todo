@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: pink;
+  font-family: Arial, Tahoma;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: #04670a;
+}
+
+.todo-container {
+  width: 600px;
+  background-color: #17e48f;
+  margin: 30px auto 0;
+}
+
+.todo-container .add-plan {
+  background-color: #ff0026e2;
+  padding: 15px;
+  position: relative;
+}
+
+.todo-container .add-plan input {
+  width: calc(100% - 15px);
+  color: #fff;
+  background-color: #ffffff4d;
+  border: none;
+  padding: 10px 15px;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.todo-container .add-plan input:focus {
+  outline: none;
+}
+
+.todo-container .add-plan .plus {
+  height: 43px;
+  width: 43px;
+  text-align: center;
+  color: #009688;
+  cursor: pointer;
+  background-color: #fff;
+  border-radius: 50%;
+  font-size: 38px;
+  line-height: 43px;
+  transition: transform .3s;
+  position: absolute;
+  right: 12px;
+}
+
+.todo-container .add-plan .plus:hover {
+  transform: rotate(90deg);
+}
+
+.todo-container .plans-content {
+  padding: 15px;
+}
+
+.todo-container .plans-content .no-plans-message {
+  color: #777;
+  font-size: 15px;
+}
+
+.todo-container .plans-content > span {
+  background-color: #fff;
+  padding: 10px;
+  display: block;
+}
+
+.todo-container .plans-content > span:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.todo-container .plans-content .plan-box .delete {
+  float: right;
+  color: #fff;
+  cursor: pointer;
+  background-color: #e91e63;
+  border-radius: 4px;
+  padding: 4px 10px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.todo-container .plans-content .plan-box.finished {
+  text-decoration: line-through;
+}
+
+.plan-stats {
+  width: 600px;
+  margin: 10px auto;
+  font-size: 12px;
+  overflow: hidden;
+}
+
+.plan-stats .plans-count {
+  width: 50%;
+  float: left;
+  padding: 10px;
+}
+
+.plan-stats .plans-completed {
+  width: 50%;
+  float: right;
+  text-align: right;
+  padding: 10px;
+}
+
+.plan-stats .plans-count span, .plan-stats .plans-completed span {
+  color: #fff;
+  border-radius: 4px;
+  padding: 1px 5px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.plan-stats .plans-count span {
+  background-color: #e91e63;
+}
+
+.plan-stats .plans-completed span {
+  background-color: #03a9f4;
+}
+
+/*# sourceMappingURL=index.b2625c6b.css.map */

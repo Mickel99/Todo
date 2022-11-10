@@ -1,0 +1,15 @@
+14
+62C:\Users\milko\Desktop\todo mickel\dist\index.b2625c6b.css.map133125868183536116 0
+58C:\Users\milko\Desktop\todo mickel\dist\index.b2625c6b.css133125868183143707 0
+49C:\Users\milko\Desktop\todo mickel\src\index.html133125868174458303 0
+53C:\Users\milko\Desktop\todo mickel\javascript\main.js133125863173502030 0
+38C:\Users\milko\Desktop\todo mickel\css133125867508419956 1
+39C:\Users\milko\Desktop\todo mickel\dist133125868183606094 1
+45C:\Users\milko\Desktop\todo mickel\javascript133125867705669489 1
+38C:\Users\milko\Desktop\todo mickel\src133125867168559633 1
+57C:\Users\milko\Desktop\todo mickel\dist\index.f2a3eb3f.js133125868183205134 0
+48C:\Users\milko\Desktop\todo mickel\css\style.css133125865346233546 0
+61C:\Users\milko\Desktop\todo mickel\dist\index.f2a3eb3f.js.map133125868183536116 0
+50C:\Users\milko\Desktop\todo mickel\dist\index.html133125868183466164 0
+63C:\Users\milko\Desktop\todo mickel\dist\todo mickel.59712999.js133125868183205134 0
+67C:\Users\milko\Desktop\todo mickel\dist\todo mickel.59712999.js.map133125868183536116 0
